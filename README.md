@@ -7,7 +7,7 @@ Place this resource in your resources folder in your /fivem/server-data/resource
 then go to your server.cfg file and add "start fivem-loading
 
 
-# ziv-loadscreen
+# loadscreen
 Full Screen YouTube loading screen for FiveM by Bad Influence (Github as BadInfluence69)
 
 Heavily modified version of the keks loadscreen 
