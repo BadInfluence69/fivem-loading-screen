@@ -6,6 +6,7 @@ Place this resource in your resources folder in your /fivem/server-data/resource
 
 then go to your server.cfg file and add "start fivem-loading
 
+# Video of Loading Screen >>> https://www.youtube.com/watch?v=1G1bWGRe_JY&t=203s
 
 # loadscreen
 Full Screen YouTube loading screen for FiveM by Bad Influence (Github as BadInfluence69)
