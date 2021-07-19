@@ -23,3 +23,11 @@ Change the headings to your community's discord and name (or delete if you don't
 Open to edit -- 
 
 Github here -> https://github.com/BadInfluence69/fivem-loading-screen
+
+
+# Join Server Here https://www.youtube.com/watch?v=4MK7dKoh4rQ
+
+#LifeRP Anyone can be Police EMS Criminal Addon Cars Custom MapMods - Custom FiveM Server
+
+$Custom Launcher Here 
+https://www.mediafire.com/file/iac2d1p7eqj3m36/DoJRP_Cops_%2526_Robbers_FiveM_Server_Launcher.bat/file
