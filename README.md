@@ -29,5 +29,5 @@ Github here -> https://github.com/BadInfluence69/fivem-loading-screen
 
 # LifeRP Anyone can be Police EMS Criminal Addon Cars Custom MapMods - Custom FiveM Server
 
-$ Custom Launcher Here 
+# Custom Launcher Here 
 https://www.mediafire.com/file/iac2d1p7eqj3m36/DoJRP_Cops_%2526_Robbers_FiveM_Server_Launcher.bat/file
