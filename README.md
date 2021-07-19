@@ -24,6 +24,9 @@ Open to edit --
 
 Github here -> https://github.com/BadInfluence69/fivem-loading-screen
 
+# Discord Here 
+
+https://discord.gg/867q2hmF
 
 # Join Server Here https://www.youtube.com/watch?v=4MK7dKoh4rQ
 
