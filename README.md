@@ -30,6 +30,8 @@ https://discord.gg/867q2hmF
 
 # Join Server Here https://www.youtube.com/watch?v=4MK7dKoh4rQ
 
+# Server Join Link https://youtu.be/qxk7E2wqCkE
+
 # LifeRP Anyone can be Police EMS Criminal Addon Cars Custom MapMods - Custom FiveM Server
 
 # Custom Launcher Here 
